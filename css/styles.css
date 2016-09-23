@@ -1,0 +1,68 @@
+.header {
+	margin-top: 18rem;
+	text-align: center;
+}
+
+.value-adds {
+	margin-top: 15rem;
+}
+
+.value-adds i {
+	display: block;
+	padding: 0.4rem;
+}
+
+.nav-spacer {
+	height: 8rem;
+}
+
+.navbar {
+	border-top: 1px dotted #aaa;
+	border-bottom: 1px dotted #aaa;
+	text-align: center;
+
+}
+
+.navbar div {
+	padding: 2rem;
+	font-size: 2rem;
+}
+
+.navbar a {
+	color: inherit;
+	text-decoration: none;
+}
+
+.portrait {
+	text-align: center;
+}
+
+.portrait img{
+	width: 15rem;
+	height: 15rem;
+	border-radius: 7.5rem;
+}
+
+.section {
+	padding-top: 5rem;
+	padding-bottom: 5rem;
+	border-bottom: 1px solid #eee;
+}
+
+.projects img {
+	width: 100%;
+}
+
+.projects .row {
+	border-top: 1px dotted #eee;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+
+
+/* UTILITIES */
+
+.u-pull-center {
+	text-align: center;
+}
+
